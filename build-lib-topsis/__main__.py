@@ -1,5 +1,4 @@
-__author__ = "Divyam Malik"
-__email__ = "divyammalik2003@gmail.com"
+
 
 import sys
 import pandas as pd
@@ -74,7 +73,7 @@ def main():
 
     data.to_csv(result_file, index=False)
     print("Divyam Malik's Topsis Implementation")
-    print("Roll Number: 102103142")
+    print("Roll Number: 102167002")
     print("Results saved to", result_file)
 
 if __name__ == "__main__":
