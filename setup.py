@@ -9,14 +9,13 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="Topsis-Divyam-102103142",
+    name="Topsis-102167002",
     version="1.1.2",
-    description="TOPSIS implementation by Divyam Malik",
+    description="TOPSIS implementation by Harsh Agrawal",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/divyam6969/topsis-divyam-102103142",
-    author="Divyam Malik",
-    author_email="divyammalik2003@gmail.com",
+    author="Harsh Agrawal",
+    author_email="hagrawal_be21@thapar.edu",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
